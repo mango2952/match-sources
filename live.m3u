@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 group-title="🏆赛事专线",Eurosport 1 · 欧洲版（网球常备）
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="🏆赛事专线",beIN Sports 1
+http://tv.cloudcdn.me:80/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+#EXTINF:-1 group-title="🏆赛事专线",beIN Sports 2
+http://tv.cloudcdn.me:80/live.ts?channelId=133114&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+#EXTINF:-1 group-title="🏆赛事专线",beIN Sports 3
+http://31.43.191.125:8080/restream/restream/34632
+#EXTINF:-1 group-title="🏆赛事专线",ESPN 2
+http://tv.cloudcdn.me:80/live.ts?channelId=271&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+#EXTINF:-1 group-title="🏆赛事专线",TSN 1
+http://tv.cloudcdn.me:80/live.ts?channelId=28961&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
